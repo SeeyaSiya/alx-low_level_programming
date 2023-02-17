@@ -1,33 +1,3 @@
-
-Skip to content
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
-@SeeyaSiya
-Rachamv /
-alx-low_level_programming
-Public
-
-Fork your own copy of Rachamv/alx-low_level_programming
-
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-
-    Insights
-
-alx-low_level_programming/0x01-variables_if_else_while/100-print_comb3.c
-@Rachamv
-Rachamv Update 100-print_comb3.c
-Latest commit 23b629d Sep 10, 2022
-History
-1 contributor
-31 lines (26 sloc) 511 Bytes
 #include <stdio.h>
 
 #include <ctype.h>
@@ -59,20 +29,3 @@ int main(void)
 	putchar('\n');
 	return (0);
 }
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-
-    Terms
-    Privacy
-    Security
-    Status
-    Docs
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-alx-low_level_programming/100-print_comb3.c at main · Rachamv/alx-low_level_programming
